@@ -1,0 +1,14 @@
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\bin\Debug\netcoreapp3.1\BaiTapQLSV.exe
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\bin\Debug\netcoreapp3.1\BaiTapQLSV.deps.json
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\bin\Debug\netcoreapp3.1\BaiTapQLSV.runtimeconfig.json
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\bin\Debug\netcoreapp3.1\BaiTapQLSV.runtimeconfig.dev.json
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\bin\Debug\netcoreapp3.1\BaiTapQLSV.dll
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\bin\Debug\netcoreapp3.1\BaiTapQLSV.pdb
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\obj\Debug\netcoreapp3.1\BaiTapQLSV.csproj.AssemblyReference.cache
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\obj\Debug\netcoreapp3.1\BaiTapQLSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\obj\Debug\netcoreapp3.1\BaiTapQLSV.AssemblyInfoInputs.cache
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\obj\Debug\netcoreapp3.1\BaiTapQLSV.AssemblyInfo.cs
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\obj\Debug\netcoreapp3.1\BaiTapQLSV.csproj.CoreCompileInputs.cache
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\obj\Debug\netcoreapp3.1\BaiTapQLSV.dll
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\obj\Debug\netcoreapp3.1\BaiTapQLSV.pdb
+D:\DotNet\BaiTapQLSV\BaiTapQLSV\obj\Debug\netcoreapp3.1\BaiTapQLSV.genruntimeconfig.cache
